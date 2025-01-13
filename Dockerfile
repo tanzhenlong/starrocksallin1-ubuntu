@@ -1,1 +1,1 @@
-FROM starrocks/allin1-ubuntu
+FROM starrocks/allin1-ubuntu:latest

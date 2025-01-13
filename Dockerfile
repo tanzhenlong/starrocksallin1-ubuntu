@@ -1,1 +1,1 @@
-FROM starrocks/allin1-ubuntu:latest
+FROM starrocks/operator:v1.9.10
